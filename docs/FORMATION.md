@@ -26,6 +26,8 @@ Ne jamais introduire plusieurs nouvelles technologies simultanément.
 
 Ne jamais considérer un module terminé sans validation explicite.
 
+Les exercices doivent évaluer des compétences d'ingénierie IA (raisonnement, conception, intégration, évaluation), et non des manipulations Java artificielles sans lien direct avec le concept étudié.
+
 ## 3. Programme
 
 ### Module 1 : Fondamentaux de l'IA générative
@@ -36,7 +38,7 @@ Ne jamais considérer un module terminé sans validation explicite.
 - Modèles multimodaux
 - Limites et hallucinations
 
-Statut : À commencer
+Statut : Validé le 21/10/2026 (confirmation explicite de l'apprenant)
 
 ### Module 2 : Spring AI
 - Architecture du framework
@@ -112,4 +114,16 @@ Pour valider un module, je dois pouvoir :
 
 ## 5. Historique des acquis
 
-Aucun module encore validé.
+### 21/10/2026 — Module 1 validé
+
+- Distinction entre IA, Machine Learning, Deep Learning, LLM et modèles multimodaux.
+- Distinction entre entraînement de modèle et inférence avec un modèle préentraîné.
+- Compréhension générale de la génération autorégressive, de la tokenisation et de la fenêtre de contexte.
+- Capacité à expliquer pourquoi une génération plausible n'est pas une preuve d'exactitude ; limites, hallucinations et vérification externe.
+- Compréhension de la température : variabilité des générations, sans garantie de vérité ni de déterminisme absolu.
+- Compréhension des compromis de précision et de rappel, y compris faux positifs et faux négatifs.
+- Capacité à raisonner sur les compromis coût, latence, qualité et limites du consensus entre modèles.
+- Distinction claire entre reconnaissance de figures chartistes (AI Vision Service) et validation/backtesting des opportunités de trading (MarketPulse).
+- Évaluation réalisée par questions et mises en situation ; conclusion validée explicitement par l'apprenant. Aucune implémentation Spring AI réalisée dans ce module.
+
+Prochaine étape : Module 2 — Spring AI (non commencé).
